@@ -1,0 +1,12 @@
+{
+  "service_id": "service_msluza8",
+  "template_id": "template_4t155kv",
+  "user_id": "RZOZfPiXnWKWZXyaa",
+  "accessToken": "3Vo1T7IHRzoN9x0RnDZB3",
+  "template_params": {
+    "from_name": "Server Test",
+    "from_email": "noreply+server-test@example.com",
+    "message": "This is a server-side test using access token to verify template delivery.",
+    "to_email": "surenderdubey9582@gmail.com"
+  }
+}

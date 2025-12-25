@@ -1,0 +1,11 @@
+{
+  "service_id": "service_msluza8",
+  "template_id": "template_lvb8mua",
+  "user_id": "RZOZfPiXnWKWZXyaa",
+  "template_params": {
+    "from_name": "Portfolio Test",
+    "from_email": "noreply+test@example.com",
+    "message": "This is a test message to verify EmailJS configuration. If you received this, test succeeded.",
+    "to_email": "surenderdubey9582@gmail.com"
+  }
+}
